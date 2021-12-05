@@ -1,16 +1,3 @@
-# flutter_route
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Description
+This is a simple state management app I create while learning Flutter to join a DevFest HCMC 2021.
+In this app, it lists all the products in the store with product name, product price and a button to add that product to cart.Also, on the app bar, it has an icon to access cart. In the cart, we can see all product which user was added to cart.
